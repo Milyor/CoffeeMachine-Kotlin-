@@ -1,2 +1,3 @@
-# Kotlin-Hyperskill
-Projects created while learning how to develop apps using Kotlin on IntelliJ IDEA
+# Kotlin Coffee Machine
+Coffee Machine created with Kotlin on IntelliJ IDEA
+Project was developed as part of Hyperskill Core program 
